@@ -5,7 +5,7 @@
 # Your existing variables
 $username        = "sander.eek@eden-akers.com.api"
 $password        = "uYHtRC$^30FSv%^P"
-$subscriptionKey = "44e07e8d8c3aa470bab377c38dc2bde6f"
+$subscriptionKey = "4e07e8d8c3aa470bab377c38dc2bde6f"
 $marketplaceCode = "eu"
 $tokenEndpoint   = "https://api.cloud.im/marketplace/eu/"    # Base URL from your YAML’s servers list
 
